@@ -1,0 +1,37 @@
+[
+  {
+    "SampleID": "123456",
+    "Client": "Acme Retail",
+    "Location": "Toronto, Ontario",
+    "Email": "joe@smai.com",
+    "Action": "View"
+  },
+  {
+    "SampleID": "123456",
+    "Client": "Acme Retail",
+    "Location": "Toronto, Ontario",
+    "Email": "joe@smai.com",
+    "Action": "View"
+  },
+  {
+    "SampleID": "123456",
+    "Client": "Acme Retail",
+    "Location": "Toronto, Ontario",
+    "Email": "joe@smai.com",
+    "Action": "View"
+  },
+  {
+    "SampleID": "123456",
+    "Client": "Acme Retail",
+    "Location": "Toronto, Ontario",
+    "Email": "j@smai.com",
+    "Action": "View"
+  },
+  {
+    "SampleID": "123456",
+    "Client": "Acme Retail",
+    "Location": "Toronto, Ontario",
+    "Email": "ioe@smai.com",
+    "Action": "View"
+  }
+]
